@@ -9,7 +9,7 @@
   "author": "DarkMio",
   "license": "MIT",
   "devDependencies": {
-    "retro-gadgets-typedefs": "npm:retro-gadgets-lua-types@^1.0.0",
+    "retro-gadgets-lua-types": "^1.0.0",
     "typescript-to-lua": "^1.11.1"
   }
 }
